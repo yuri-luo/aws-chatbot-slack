@@ -26,7 +26,9 @@
     </select>
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="44074745-9672-4317-930b-e02d55d29f94" name="默认的" comment="fix .gitignore" />
+    <list default="true" id="44074745-9672-4317-930b-e02d55d29f94" name="默认的" comment="fix .gitignore">
+      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -111,7 +113,7 @@
       <option name="presentableId" value="Default" />
       <updated>1618538302520</updated>
       <workItem from="1618538303542" duration="1211000" />
-      <workItem from="1618539544182" duration="4288000" />
+      <workItem from="1618539544182" duration="4602000" />
     </task>
     <task id="LOCAL-00001">
       <created>1618539378107</created>
@@ -134,7 +136,14 @@
       <option name="project" value="LOCAL" />
       <updated>1618543867285</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="fix .gitignore">
+      <created>1618544091712</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1618544091712</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -196,10 +205,10 @@
       <screen x="0" y="23" width="1600" height="813" />
     </state>
     <state x="444" y="75" key="VCS.ChangeListViewerDialog/0.23.1600.813@0.23.1600.813" timestamp="1618538820402" />
-    <state x="270" y="106" key="Vcs.Push.Dialog.v2" timestamp="1618543870956">
+    <state x="270" y="106" key="Vcs.Push.Dialog.v2" timestamp="1618544300520">
       <screen x="0" y="23" width="1440" height="813" />
     </state>
-    <state x="270" y="106" key="Vcs.Push.Dialog.v2/0.23.1440.813@0.23.1440.813" timestamp="1618543870956" />
+    <state x="270" y="106" key="Vcs.Push.Dialog.v2/0.23.1440.813@0.23.1440.813" timestamp="1618544300520" />
     <state x="300" y="106" key="Vcs.Push.Dialog.v2/0.23.1600.813@0.23.1600.813" timestamp="1618538888294" />
     <state x="686" y="115" key="VcsDiffUtil.ChangesDialog" timestamp="1618539158932">
       <screen x="0" y="23" width="1440" height="813" />
